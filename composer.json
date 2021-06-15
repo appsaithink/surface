@@ -1,0 +1,19 @@
+{
+    "name": "saithink/surface",
+    "description": "this is a vue ui",
+    "type": "l",
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "Surface\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sai",
+            "email": "1430792918@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
